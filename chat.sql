@@ -64,13 +64,7 @@ CREATE TABLE `user` (
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`id`, `first_name`, `last_name`, `username`, `password`) VALUES
-(1, 'pranshu', 'bhatt', 'pb', 'pb'),
-(2, 'sanjay', 'bhatt', 'sb', 'sb'),
-(3, 'kratu', 'bhatt', 'KRATUBHATT', 'kb'),
-(4, 'Bharat', 'Soni', 'BHARATSONI', 'bs'),
-(5, 'Sanjay', 'Bhatt', 'SanjayBhatt', '123'),
-(6, 'Deepu', 'Hotwani', 'DEEPANSHU', 'beepu');
+
 
 --
 -- Indexes for dumped tables
