@@ -38,14 +38,6 @@ CREATE TABLE `message` (
 -- Dumping data for table `message`
 --
 
-INSERT INTO `message` (`id`, `username`, `message`) VALUES
-(1, 'kratubhatt', 'hii'),
-(2, 'pb', 'hello'),
-(76, 'pb', 'Kaise Ho??'),
-(78, 'KRATUBHATT', 'Lets have Party?'),
-(81, 'BHARATSONI', 'Milte hain???'),
-(82, 'BHARATSONI', 'Milte hain???');
-
 -- --------------------------------------------------------
 
 --
